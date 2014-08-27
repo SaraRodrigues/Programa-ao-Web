@@ -1,0 +1,33 @@
+/*CSS padrao pra site*/
+
+.menu{
+    background-color:lightblue;
+	}
+	
+.barra{
+width:100%;
+height:100px;
+background:white;
+position:absolute;
+bottom:2px;
+}
+
+.item_barra{
+
+width:32%;
+height:100%;
+float:under;
+margin:1%;
+overflow:auto;
+}
+.capa_filme{
+height:100%;
+float:left;
+margin-right:1em;
+}
+
+.tela{
+with-500px;
+height-400px;
+background-color:red;
+}
